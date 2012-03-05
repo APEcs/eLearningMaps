@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<client-database>
+ <user afullname="a" busername="a" cpassword="a" demail="panklitos@gmail.com">
+  <contacts> 
+    <member afullname="Klitos" busername="b" cpassword="b" demail="sdd@com"/>
+    <member afullname="Maria" busername="c" cpassword="c" demail="c@"/>
+  </contacts> 
+ </user> 
+ <user afullname="Klitos" busername="b" cpassword="b" demail="sta@com">
+  <contacts> 
+  </contacts> 
+ </user> 
+ <user afullname="Maria" busername="c" cpassword="c" demail="c@">
+  <contacts> 
+    <member afullname="Klitos" busername="b" cpassword="b" demail="sta@com"/>
+  </contacts> 
+ </user> 
+</client-database>
